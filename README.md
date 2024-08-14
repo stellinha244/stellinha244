@@ -1,6 +1,6 @@
 bem vindos ao meu perfil
 meu nome e stella lavinia
-- estou estudando no alura
+- estou estudando alura
 - com aulas de robotica na escola
 - utilizo esse espaço para minha organizaçäo e compartilhamento dos meu projetos desenvolvidos
 - 
